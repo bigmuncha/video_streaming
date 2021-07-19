@@ -1,0 +1,23 @@
+#+title: My video-streaming server
+#+author: Omar Munchaev
+
+* Create video-streaming server.
+
+* What i am need research after creating video server?
+** TODO RTSP documentation.
+** TODO RTP documentation.
+** TODO RTCP documentation.
+** TODO UDP documentation (u know, but u need remain memories)
+** TODO TCP documentation (u know, but u need remain memories)
+
+* Tasks
+** TODO RTSP api
+** TODO RTP api 
+** TODO RTCP api
+
+* Environment, tools and language
+** Gnu/Linux
+** C language 
+** GNU gcc 10.*
+** Emacs
+  
